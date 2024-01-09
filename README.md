@@ -1,6 +1,4 @@
 
-![Image alt](https://github.com/narret-01/MCU_v2_board/blob/master/docs/mcu_v2_bord_render.png)
-
 High speed HB driver, up to 20A output. 
 It's 2 Layer board, based on NSI6602A
 
